@@ -58,7 +58,8 @@ export default function App() {
 
   return (
     <div className="container">
-      <h1>NLP Classifier Prototype</h1>
+      <h1>NLP Classifier
+      </h1>
 
       {/*Upload PDF files*/}
       <FileUploader onUpload={handleUpload} />
